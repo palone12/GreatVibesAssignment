@@ -22,7 +22,7 @@ const Form = ({
             <h4 className={twMerge(inputFieldLabelClasses)}>Experience</h4>
           </div>
           <div className="w-full flex gap-[24px]">
-            <input className={formInputField} placeholder="Miniumum" />
+            <input className={formInputField} placeholder="Minigiumum" />
             <input className={formInputField} placeholder="Maximum" />
           </div>
         </div>
